@@ -1,8 +1,0 @@
-[
-{
-  "directory": "/home/thorsten/ratespielmitCXX/build",
-  "command": "/usr/bin/g++   -g -o CMakeFiles/ratespiel.dir/main.cpp.o -c /home/thorsten/ratespielmitCXX/main.cpp",
-  "file": "/home/thorsten/ratespielmitCXX/main.cpp",
-  "output": "CMakeFiles/ratespiel.dir/main.cpp.o"
-}
-]
