@@ -1,0 +1,3 @@
+/home/thorsten/ratespielmitCXX/build/CMakeFiles/ratespiel.dir
+/home/thorsten/ratespielmitCXX/build/CMakeFiles/edit_cache.dir
+/home/thorsten/ratespielmitCXX/build/CMakeFiles/rebuild_cache.dir
